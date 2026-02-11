@@ -5,7 +5,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ## Dataset used
 Dataset
 
-Questions (KPIs)
+##Questions (KPIs)
 Compare the sales and orders using single chart.
 Which month got the highest sales and orders?
 Who purchased more - Men or Women?
@@ -16,8 +16,9 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 Percentage of Total Orders delivered
 
-Dashboard Interaction https://github.com/ritikbh193/Vrinda-Store-Data-Analysis/blob/main/Dashboard_Image.png
+Dashboard Interaction https://github.com/prasanna840/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx
 
 ## process
 https://github.com/prasanna840/Data-Analysis-Dashboard
 ## Dashboard
+<img width="1214" height="550" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/3b49c9d6-ff61-42f9-8bbf-411c25ef18f0" />
