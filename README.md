@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-In this comprehensive guide, you’ll discover how to seamlessly upload your data analysis dashboard project to GitHub, enabling you to share your work with others, manage versions of your project, and contribute to the open-source community
+Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
