@@ -31,12 +31,10 @@ https://github.com/prasanna840/Data-Analysis-Dashboard
 ## Dashboard
 <img width="1214" height="550" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/3b49c9d6-ff61-42f9-8bbf-411c25ef18f0" />
 ##Project Insight
+
 Women customers are more likely to buy products compared to men (~65%).
-
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-
 The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-
 The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 More than 90% of the products delivered.
 
